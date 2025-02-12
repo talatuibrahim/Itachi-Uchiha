@@ -1,0 +1,51 @@
+*{
+    font-family: initial;
+    margin: 0;
+    padding: 0;
+}
+.background {
+    background-color: lightgrey;
+}
+.first-heading {
+    background-color: blue;
+    padding: 10px 0;
+}.text {
+    text-align: center;
+    background-color: white;
+    color: darkblue;
+    padding: 8px 0;
+    margin: 0 580px;
+}
+.quote  {
+    background-color: white;
+    border: blue solid 2.5px;
+    border-left: 0;
+    margin-right: 850px;
+    color: blue;
+    line-height: 27px;
+    font-style: italic;
+    padding: 10px;
+    font-size: 25px;
+    position: relative;
+    bottom: 400px;
+    right: 2px;
+}
+.main-story {
+    padding: 2px 0;
+}.list-heading {
+    color: darkblue;
+    text-decoration: underline;
+}
+.list {
+    background-color: white;
+    line-height: 40px;
+    border-radius: 20px;
+    padding: 2px;
+    margin: 15px 305px;
+    position: relative;
+    bottom: 80px;
+}
+.sub-list {
+    margin-left: 20px;
+}
+ 
