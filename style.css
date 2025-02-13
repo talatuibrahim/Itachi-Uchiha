@@ -1,5 +1,5 @@
 *{
-    font-family: initial;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -14,7 +14,7 @@
     background-color: white;
     color: darkblue;
     padding: 8px 0;
-    margin: 0 580px;
+    margin: 0 560px;;
 }
 .quote  {
     background-color: white;
@@ -40,12 +40,27 @@
     background-color: white;
     line-height: 40px;
     border-radius: 20px;
-    padding: 2px;
-    margin: 15px 305px;
+    padding: 20px 100px;
+    margin: 20px 300px;
     position: relative;
-    bottom: 80px;
+    bottom: 70px;
 }
 .sub-list {
     margin-left: 20px;
 }
- 
+.footer {
+    background-color: black;
+    padding: 30px 0;
+}
+.extra-info {
+    color: white;
+    text-decoration: none;
+    border: white 2px solid;
+    padding: 5px 2px;
+    margin: 0 550px;
+}
+.extra-info:hover {
+    color: darkblue;
+    border: darkblue 2px solid;
+
+}
